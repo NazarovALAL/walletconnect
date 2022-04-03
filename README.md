@@ -1,4 +1,5 @@
 # walletconnect
+Подключение к trust wallet, используя walletconnect протокол 
 
 ## Project setup
 ```
